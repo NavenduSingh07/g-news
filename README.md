@@ -1,1 +1,1 @@
-# g-news
+# Galo-News
